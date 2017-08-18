@@ -77,6 +77,19 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #222222; }
 
+.social,
+.list-inline {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+
+}
+
+.fa {
+  height: 150px;
+  width: 150px;
+}
+
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
   background-color: white;
